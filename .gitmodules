@@ -1,0 +1,6 @@
+[submodule "altium_stdlib"]
+	path = altium_stdlib
+	url = https://github.com/Atmelfan/altium_stdlib.git
+[submodule "lib-sam-common"]
+	path = lib-sam-common
+	url = https://github.com/Atmelfan/lib-sam-common.git
