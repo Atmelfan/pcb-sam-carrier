@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=cover.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=cover.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=powersupplies.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=powersupplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=cover.SchDoc|FileName=cameras.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=cover.SchDoc|FileName=eyes.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=cover.SchDoc|FileName=jetson_nx_csi.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=cover.SchDoc|FileName=jetson_nx_io.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=cover.SchDoc|FileName=rear_io.SchDoc|SheetNumber=4
