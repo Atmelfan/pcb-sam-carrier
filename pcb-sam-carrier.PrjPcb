@@ -788,6 +788,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document45]
+DocumentPath=dcin.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUAZCOOG
+
+[Document46]
+DocumentPath=altium_stdlib\lib_ti\Project Outputs for lib_ti\lib_ti.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=F7482573-F0B3-40EE-A37A-96E1EB47CB33
 Description=DEFAULT
@@ -798,20 +832,20 @@ Variation1=Designator=R53|UniqueId=\ZNUVLLEB\LKDMDBNO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=project_revision
-Value=1
+Name=project_author
+Value=Gustav Palmqvist
 
 [Parameter2]
-Name=project_repo
-Value=https://github.com/Atmelfan/pcb-sam-carrier
-
-[Parameter3]
 Name=project_name
 Value=SAM Carrier
 
+[Parameter3]
+Name=project_repo
+Value=https://github.com/Atmelfan/pcb-sam-carrier
+
 [Parameter4]
-Name=project_author
-Value=Gustav Palmqvist
+Name=project_revision
+Value=1
 
 [Configuration1]
 Name=Sources
