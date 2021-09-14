@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for pcb-sam-carrier
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -551,7 +551,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=altium_stdlib\lib_st\Project Outputs for lib_st\lib_st.IntLib
+DocumentPath=Altium_WR-DC (rev21a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -568,6 +568,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
+DocumentPath=altium_stdlib\lib_st\Project Outputs for lib_st\lib_st.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
 DocumentPath=servos.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNDIHJXI
 
-[Document33]
+[Document34]
 DocumentPath=altium_stdlib\lib_onsemi\Project Outputs for lib_onsemi\lib_onsemi.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -601,7 +618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=carrier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -618,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHHHFHTQ
 
-[Document35]
+[Document36]
 DocumentPath=servos.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -635,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=imu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -652,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHMSCYGA
 
-[Document37]
+[Document38]
 DocumentPath=imu.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,7 +686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=altium_stdlib\lib_analog\Project Outputs for lib_analog\lib_analog.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=altium_stdlib\lib_infineon\Project Outputs for lib_infineon\lib_infineon.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=pcb-sam-carrier.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWMHKRYE
 
-[Document41]
+[Document42]
 DocumentPath=mechanical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXBOQDSC
 
-[Document42]
+[Document43]
 DocumentPath=altium_stdlib\lib_mechanical\Project Outputs for lib_mechanical\lib_mechanical.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=pcb-sam-carrier.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=altium_stdlib\lib_bosch\Project Outputs for lib_bosch\lib_bosch.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=dcin.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,8 +822,76 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUAZCOOG
 
-[Document46]
+[Document47]
 DocumentPath=altium_stdlib\lib_ti\Project Outputs for lib_ti\lib_ti.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=altium_stdlib\lib_vishay\Project Outputs for lib_vishay\lib_vishay.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document49]
+DocumentPath=altium_stdlib\lib_rohm\Project Outputs for lib_rohm\lib_rohm.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document50]
+DocumentPath=dcin.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=altium_stdlib\lib_bourns\Project Outputs for lib_bourns\lib_bourns.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -827,8 +912,9 @@ UniqueID=F7482573-F0B3-40EE-A37A-96E1EB47CB33
 Description=DEFAULT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=2
 Variation1=Designator=R53|UniqueId=\ZNUVLLEB\LKDMDBNO|Kind=1|AlternatePart= 
+Variation2=Designator=R67|UniqueId=\ZNUVLLEB\QUXOYQHV\KGRNMKZA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -858,7 +944,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for pcb-sam-carrier
 
 [OutputGroup1]
 Name=Netlist Outputs
