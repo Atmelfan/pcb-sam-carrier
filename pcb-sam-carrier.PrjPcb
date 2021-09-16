@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for pcb-sam-carrier
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -918,20 +918,20 @@ Variation2=Designator=R67|UniqueId=\ZNUVLLEB\QUXOYQHV\KGRNMKZA|Kind=1|AlternateP
 ParamVariationCount=0
 
 [Parameter1]
-Name=project_author
-Value=Gustav Palmqvist
+Name=project_revision
+Value=1
 
 [Parameter2]
-Name=project_name
-Value=SAM Carrier
-
-[Parameter3]
 Name=project_repo
 Value=https://github.com/Atmelfan/pcb-sam-carrier
 
+[Parameter3]
+Name=project_name
+Value=SAM Carrier
+
 [Parameter4]
-Name=project_revision
-Value=1
+Name=project_author
+Value=Gustav Palmqvist
 
 [Configuration1]
 Name=Sources
@@ -944,7 +944,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for pcb-sam-carrier
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1823,8 +1823,8 @@ L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
-L15=NNENNNNEEENWNENWW
+L14=NWEENEEEENEWNENWW
+L15=NNENNNNEEENWNNNWW
 L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
