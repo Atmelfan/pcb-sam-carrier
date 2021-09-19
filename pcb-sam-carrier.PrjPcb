@@ -907,31 +907,65 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document52]
+DocumentPath=rpi_header.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TOULLQWT
+
+[Document53]
+DocumentPath=rpi_header.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=F7482573-F0B3-40EE-A37A-96E1EB47CB33
 Description=DEFAULT
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
-Variation1=Designator=R53|UniqueId=\ZNUVLLEB\LKDMDBNO|Kind=1|AlternatePart= 
-Variation2=Designator=R67|UniqueId=\ZNUVLLEB\QUXOYQHV\KGRNMKZA|Kind=1|AlternatePart= 
+Variation1=Designator=R56|UniqueId=\ZNUVLLEB\LKDMDBNO|Kind=1|AlternatePart= 
+Variation2=Designator=R3|UniqueId=\ZNUVLLEB\QUXOYQHV\KGRNMKZA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=project_revision
-Value=1
+Name=project_author
+Value=Gustav Palmqvist
 
 [Parameter2]
-Name=project_repo
-Value=https://github.com/Atmelfan/pcb-sam-carrier
-
-[Parameter3]
 Name=project_name
 Value=SAM Carrier
 
+[Parameter3]
+Name=project_repo
+Value=https://github.com/Atmelfan/pcb-sam-carrier
+
 [Parameter4]
-Name=project_author
-Value=Gustav Palmqvist
+Name=project_revision
+Value=1
 
 [Configuration1]
 Name=Sources
