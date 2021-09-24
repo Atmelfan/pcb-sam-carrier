@@ -595,7 +595,7 @@ AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -748,7 +748,7 @@ AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -816,7 +816,7 @@ AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -918,7 +918,7 @@ AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -951,21 +951,25 @@ Variation1=Designator=R56|UniqueId=\ZNUVLLEB\LKDMDBNO|Kind=1|AlternatePart=
 Variation2=Designator=R3|UniqueId=\ZNUVLLEB\QUXOYQHV\KGRNMKZA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pcb-sam-carrier\Design Rule Check - pcb-sam-carrier.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=project_author
-Value=Gustav Palmqvist
+Name=project_revision
+Value=1
 
 [Parameter2]
-Name=project_name
-Value=SAM Carrier
-
-[Parameter3]
 Name=project_repo
 Value=https://github.com/Atmelfan/pcb-sam-carrier
 
+[Parameter3]
+Name=project_name
+Value=SAM Carrier
+
 [Parameter4]
-Name=project_revision
-Value=1
+Name=project_author
+Value=Gustav Palmqvist
 
 [Configuration1]
 Name=Sources
